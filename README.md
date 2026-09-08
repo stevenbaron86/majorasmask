@@ -2,6 +2,8 @@
 
 Majora's Mask using an Arduino Nano Every and two WS2812B addressable LED rings.
 
+<img width="420" height="487" alt="image" src="https://github.com/user-attachments/assets/7f1267bb-4e73-44a0-9e0a-50165aa6b1d2" />
+
 ---
 
 ## Project Overview
@@ -35,3 +37,5 @@ Arduino and LED rings. Battery at default brightness lasts about 2 hours.
 1. Cut out the eyes on the mask, run the WS2812Bs between the foam and plastic white backing, hot glue the rings down, route the female end out the side of the mask.
 
 2. Wire one of the battery pack's 5v to the LEDs. Wire the data cable to D6 on the Arduino board, Arduino 5v and ground to battery.
+
+<img width="930" height="736" alt="image" src="https://github.com/user-attachments/assets/afeed7a8-4089-40c2-9cef-e582fbf399a6" />
