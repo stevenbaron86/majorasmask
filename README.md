@@ -39,3 +39,5 @@ Arduino and LED rings. Battery at default brightness lasts about 2 hours.
 2. Wire one of the battery pack's 5v to the LEDs. Wire the data cable to D6 on the Arduino board, Arduino 5v and ground to battery.
 
 <img width="930" height="736" alt="image" src="https://github.com/user-attachments/assets/afeed7a8-4089-40c2-9cef-e582fbf399a6" />
+
+<img width="4000" height="2252" alt="20261022_191225" src="https://github.com/user-attachments/assets/e08f1da7-6a44-4803-bf49-bba687a6e666" />
